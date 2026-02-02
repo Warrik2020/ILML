@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\\source\\repos\\New folder\\ModLoader.Core.Native\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C085AEE3-4845-4DC6-BDB5-8BF2B9389217}|ModLoader.Core.Native.vcxproj|C:\\Users\\H\\source\\repos\\New folder\\ModLoader.Core.Native\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C085AEE3-4845-4DC6-BDB5-8BF2B9389217}|ModLoader.Core.Native.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C085AEE3-4845-4DC6-BDB5-8BF2B9389217}|ModLoader.Core.Native.vcxproj|C:\\Users\\H\\source\\repos\\New folder\\ModLoader.Core.Native\\mono.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C085AEE3-4845-4DC6-BDB5-8BF2B9389217}|ModLoader.Core.Native.vcxproj|solutionrelative:mono.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mono.hpp",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\New folder\\ModLoader.Core.Native\\mono.hpp",
+              "RelativeDocumentMoniker": "mono.hpp",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\New folder\\ModLoader.Core.Native\\mono.hpp",
+              "RelativeToolTip": "mono.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T04:35:02.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\New folder\\ModLoader.Core.Native\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\New folder\\ModLoader.Core.Native\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T05:10:15.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

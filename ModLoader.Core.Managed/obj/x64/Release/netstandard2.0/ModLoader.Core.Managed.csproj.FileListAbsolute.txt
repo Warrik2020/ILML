@@ -1,0 +1,10 @@
+C:\Users\H\source\repos\ModLoader.Core.Managed\bin\x64\Release\netstandard2.0\ModLoader.Core.Managed.deps.json
+C:\Users\H\source\repos\ModLoader.Core.Managed\bin\x64\Release\netstandard2.0\ModLoader.Core.Managed.dll
+C:\Users\H\source\repos\ModLoader.Core.Managed\bin\x64\Release\netstandard2.0\ModLoader.Core.Managed.pdb
+C:\Users\H\source\repos\ModLoader.Core.Managed\obj\x64\Release\netstandard2.0\ModLoader.Core.Managed.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\ModLoader.Core.Managed\obj\x64\Release\netstandard2.0\ModLoader.Core.Managed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\ModLoader.Core.Managed\obj\x64\Release\netstandard2.0\ModLoader.Core.Managed.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\ModLoader.Core.Managed\obj\x64\Release\netstandard2.0\ModLoader.Core.Managed.AssemblyInfo.cs
+C:\Users\H\source\repos\ModLoader.Core.Managed\obj\x64\Release\netstandard2.0\ModLoader.Core.Managed.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\ModLoader.Core.Managed\obj\x64\Release\netstandard2.0\ModLoader.Core.Managed.dll
+C:\Users\H\source\repos\ModLoader.Core.Managed\obj\x64\Release\netstandard2.0\ModLoader.Core.Managed.pdb

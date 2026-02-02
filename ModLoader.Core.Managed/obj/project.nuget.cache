@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xm69WQjmC1A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\H\\source\\repos\\New folder\\ModLoader.Core.Managed\\ModLoader.Core.Managed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\H\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\mono.cecil\\0.11.6\\mono.cecil.0.11.6.nupkg.sha512",
+    "C:\\Users\\H\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

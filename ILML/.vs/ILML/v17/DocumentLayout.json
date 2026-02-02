@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\\source\\repos\\New folder\\ILML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE96341E-4E54-43F5-B149-059BDD56D1BA}|ILML.csproj|c:\\users\\h\\source\\repos\\new folder\\ilml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE96341E-4E54-43F5-B149-059BDD56D1BA}|ILML.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE96341E-4E54-43F5-B149-059BDD56D1BA}|ILML.csproj|c:\\users\\h\\source\\repos\\new folder\\ilml\\injector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE96341E-4E54-43F5-B149-059BDD56D1BA}|ILML.csproj|solutionrelative:injector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE96341E-4E54-43F5-B149-059BDD56D1BA}|ILML.csproj|c:\\users\\h\\source\\repos\\new folder\\ilml\\native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE96341E-4E54-43F5-B149-059BDD56D1BA}|ILML.csproj|solutionrelative:native.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Injector.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\New folder\\ILML\\Injector.cs",
+              "RelativeDocumentMoniker": "Injector.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\New folder\\ILML\\Injector.cs",
+              "RelativeToolTip": "Injector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:28:27.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Native.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\New folder\\ILML\\Native.cs",
+              "RelativeDocumentMoniker": "Native.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\New folder\\ILML\\Native.cs",
+              "RelativeToolTip": "Native.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:01:58.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\New folder\\ILML\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\New folder\\ILML\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T03:54:50.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

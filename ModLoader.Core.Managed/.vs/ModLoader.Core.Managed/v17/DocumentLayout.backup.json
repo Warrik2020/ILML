@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|c:\\users\\h\\source\\repos\\modloader.core.managed\\hook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|solutionrelative:hook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|c:\\users\\h\\source\\repos\\modloader.core.managed\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|c:\\users\\h\\source\\repos\\modloader.core.managed\\assemblycsharppatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|solutionrelative:assemblycsharppatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|c:\\users\\h\\source\\repos\\modloader.core.managed\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|solutionrelative:api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|c:\\users\\h\\source\\repos\\modloader.core.managed\\ilclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733C8A1-90FA-42A2-8B7E-EFD86A1DD95E}|ModLoader.Core.Managed.csproj|solutionrelative:ilclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\API.cs",
+              "RelativeDocumentMoniker": "API.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\API.cs",
+              "RelativeToolTip": "API.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:44:36.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyCSharpPatcher.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\AssemblyCSharpPatcher.cs",
+              "RelativeDocumentMoniker": "AssemblyCSharpPatcher.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\AssemblyCSharpPatcher.cs",
+              "RelativeToolTip": "AssemblyCSharpPatcher.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAwwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:18:46.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAIwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:48:03.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hook.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\Hook.cs",
+              "RelativeDocumentMoniker": "Hook.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\Hook.cs",
+              "RelativeToolTip": "Hook.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:13:30.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILClasses.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\ILClasses.cs",
+              "RelativeDocumentMoniker": "ILClasses.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\ModLoader.Core.Managed\\ILClasses.cs",
+              "RelativeToolTip": "ILClasses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T00:31:04.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

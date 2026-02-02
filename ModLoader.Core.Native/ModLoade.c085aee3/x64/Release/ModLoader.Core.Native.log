@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+  Generating code
+  1 of 33 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ModLoader.Core.Native.vcxproj -> C:\Users\H\source\repos\ModLoader.Core.Native\x64\Release\ModLoader.Core.Native.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
