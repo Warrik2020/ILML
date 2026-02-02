@@ -1,0 +1,14 @@
+C:\Users\H\source\repos\ILML\bin\Debug\net8.0\ILML.exe
+C:\Users\H\source\repos\ILML\bin\Debug\net8.0\ILML.deps.json
+C:\Users\H\source\repos\ILML\bin\Debug\net8.0\ILML.runtimeconfig.json
+C:\Users\H\source\repos\ILML\bin\Debug\net8.0\ILML.dll
+C:\Users\H\source\repos\ILML\bin\Debug\net8.0\ILML.pdb
+C:\Users\H\source\repos\ILML\obj\Debug\net8.0\ILML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\ILML\obj\Debug\net8.0\ILML.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\ILML\obj\Debug\net8.0\ILML.AssemblyInfo.cs
+C:\Users\H\source\repos\ILML\obj\Debug\net8.0\ILML.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\ILML\obj\Debug\net8.0\ILML.dll
+C:\Users\H\source\repos\ILML\obj\Debug\net8.0\refint\ILML.dll
+C:\Users\H\source\repos\ILML\obj\Debug\net8.0\ILML.pdb
+C:\Users\H\source\repos\ILML\obj\Debug\net8.0\ILML.genruntimeconfig.cache
+C:\Users\H\source\repos\ILML\obj\Debug\net8.0\ref\ILML.dll
